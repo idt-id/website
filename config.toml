@@ -1,5 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://idt-id.github.io/website/"
+themesDir = "themes"
 title = "IDT Official Website"
 theme = "meghna-hugo"
 publishDir = "docs"
