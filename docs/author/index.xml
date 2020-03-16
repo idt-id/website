@@ -6,27 +6,27 @@
     <description>Recent content in Authors on IDT Official Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    
+
 	<atom:link href="https://idt-id.github.io/website/author/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+
+
     <item>
       <title>John Doe</title>
       <link>https://idt-id.github.io/website/author/john-doe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+
       <guid>https://idt-id.github.io/website/author/john-doe/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
     </item>
-    
+
     <item>
-      <title>Mark Dinn</title>
+      <title>Ferilee</title>
       <link>https://idt-id.github.io/website/author/mark-dinn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+
       <guid>https://idt-id.github.io/website/author/mark-dinn/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
     </item>
-    
+
   </channel>
 </rss>
